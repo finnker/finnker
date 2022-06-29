@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @finnker
 - 👀 I’m interested in artificial intelligence!
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on just about anything :)
+- 🌱 I’m currently studying computer science
 - 📫 You can reach me through me email finn.oneill10@gmail.com
 
 <!---
